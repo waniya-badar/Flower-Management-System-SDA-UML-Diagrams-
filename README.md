@@ -5,7 +5,7 @@ This project adheres to the IEEE Standard for Software Requirements Specificatio
 
 The system follows the Model-View-Controller (MVC) pattern to ensure separation of concerns, scalability, and maintainability.
 
-# UML Design Artifacts:
+### UML Design Artifacts:
 Use Case Diagram – Highlights user roles and system functionalities
 
 Class Diagram – Depicts system classes and their relationships
